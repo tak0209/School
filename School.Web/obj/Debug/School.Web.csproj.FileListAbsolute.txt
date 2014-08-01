@@ -1,0 +1,12 @@
+C:\1. Projects\Study\School.API\School.Web\School.Web\bin\School.Web.dll.config
+C:\1. Projects\Study\School.API\School.Web\School.Web\bin\School.Web.dll
+C:\1. Projects\Study\School.API\School.Web\School.Web\bin\School.Web.pdb
+C:\1. Projects\Study\School.API\School.Web\School.Web\obj\Debug\School.Web.csprojResolveAssemblyReference.cache
+C:\1. Projects\Study\School.API\School.Web\School.Web\obj\Debug\School.Web.dll
+C:\1. Projects\Study\School.API\School.Web\School.Web\obj\Debug\School.Web.pdb
+C:\1. Projects\Study\School.Web\bin\School.Web.dll.config
+C:\1. Projects\Study\School.Web\bin\School.Web.dll
+C:\1. Projects\Study\School.Web\bin\School.Web.pdb
+C:\1. Projects\Study\School.Web\obj\Debug\School.Web.csprojResolveAssemblyReference.cache
+C:\1. Projects\Study\School.Web\obj\Debug\School.Web.dll
+C:\1. Projects\Study\School.Web\obj\Debug\School.Web.pdb

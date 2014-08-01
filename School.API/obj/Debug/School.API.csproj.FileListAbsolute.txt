@@ -1,0 +1,141 @@
+C:\temp\Study\School.API\School.API\bin\School.API.dll.config
+C:\temp\Study\School.API\School.API\bin\School.API.dll
+C:\temp\Study\School.API\School.API\bin\School.API.pdb
+C:\temp\Study\School.API\School.API\bin\Antlr3.Runtime.dll
+C:\temp\Study\School.API\School.API\bin\EntityFramework.dll
+C:\temp\Study\School.API\School.API\bin\EntityFramework.SqlServer.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\Study\School.API\School.API\bin\Newtonsoft.Json.dll
+C:\temp\Study\School.API\School.API\bin\Owin.dll
+C:\temp\Study\School.API\School.API\bin\System.Net.Http.Formatting.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Helpers.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.Owin.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.WebHost.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Mvc.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Optimization.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Razor.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.Deployment.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.Razor.dll
+C:\temp\Study\School.API\School.API\bin\WebGrease.dll
+C:\temp\Study\School.API\School.API\bin\Antlr3.Runtime.pdb
+C:\temp\Study\School.API\School.API\bin\EntityFramework.xml
+C:\temp\Study\School.API\School.API\bin\EntityFramework.SqlServer.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Helpers.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.Owin.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Mvc.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Optimization.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Razor.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.Deployment.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.WebPages.Razor.xml
+C:\temp\Study\School.API\School.API\bin\Newtonsoft.Json.xml
+C:\temp\Study\School.API\School.API\bin\System.Net.Http.Formatting.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.xml
+C:\temp\Study\School.API\School.API\bin\System.Web.Http.WebHost.xml
+C:\temp\Study\School.API\School.API\obj\Debug\School.API.dll
+C:\temp\Study\School.API\School.API\obj\Debug\School.API.pdb
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Cors.dll
+C:\temp\Study\School.API\School.API\bin\System.Web.Cors.dll
+C:\temp\Study\School.API\School.API\bin\Microsoft.Owin.Cors.xml
+C:\temp\Study\School.API\School.API\obj\Debug\School.API.csprojResolveAssemblyReference.cache
+C:\1. Projects\Study\School.API\School.API\bin\School.API.dll.config
+C:\1. Projects\Study\School.API\School.API\bin\School.API.dll
+C:\1. Projects\Study\School.API\School.API\bin\School.API.pdb
+C:\1. Projects\Study\School.API\School.API\bin\Antlr3.Runtime.dll
+C:\1. Projects\Study\School.API\School.API\bin\EntityFramework.dll
+C:\1. Projects\Study\School.API\School.API\bin\EntityFramework.SqlServer.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Cors.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Web.Infrastructure.dll
+C:\1. Projects\Study\School.API\School.API\bin\Newtonsoft.Json.dll
+C:\1. Projects\Study\School.API\School.API\bin\Owin.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Net.Http.Formatting.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Cors.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Helpers.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.Owin.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.WebHost.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Mvc.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Optimization.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Razor.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.Deployment.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.dll
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.Razor.dll
+C:\1. Projects\Study\School.API\School.API\bin\WebGrease.dll
+C:\1. Projects\Study\School.API\School.API\bin\Antlr3.Runtime.pdb
+C:\1. Projects\Study\School.API\School.API\bin\EntityFramework.xml
+C:\1. Projects\Study\School.API\School.API\bin\EntityFramework.SqlServer.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Cors.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\1. Projects\Study\School.API\School.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Helpers.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.Owin.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Mvc.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Optimization.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Razor.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.Deployment.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.WebPages.Razor.xml
+C:\1. Projects\Study\School.API\School.API\bin\Newtonsoft.Json.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Net.Http.Formatting.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.xml
+C:\1. Projects\Study\School.API\School.API\bin\System.Web.Http.WebHost.xml
+C:\1. Projects\Study\School.API\School.API\obj\Debug\School.API.dll
+C:\1. Projects\Study\School.API\School.API\obj\Debug\School.API.pdb
+C:\1. Projects\Study\School.API\bin\School.API.dll.config
+C:\1. Projects\Study\School.API\bin\School.API.dll
+C:\1. Projects\Study\School.API\bin\School.API.pdb
+C:\1. Projects\Study\School.API\bin\Microsoft.Owin.dll
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.dll
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\1. Projects\Study\School.API\bin\Microsoft.Web.Infrastructure.dll
+C:\1. Projects\Study\School.API\bin\Newtonsoft.Json.dll
+C:\1. Projects\Study\School.API\bin\Owin.dll
+C:\1. Projects\Study\School.API\bin\System.Net.Http.Formatting.dll
+C:\1. Projects\Study\School.API\bin\System.Web.Http.dll
+C:\1. Projects\Study\School.API\bin\System.Web.Http.Owin.dll
+C:\1. Projects\Study\School.API\bin\System.Web.Http.WebHost.dll
+C:\1. Projects\Study\School.API\bin\Microsoft.Owin.xml
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.xml
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\1. Projects\Study\School.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\1. Projects\Study\School.API\bin\Microsoft.Web.Infrastructure.xml
+C:\1. Projects\Study\School.API\bin\Newtonsoft.Json.xml
+C:\1. Projects\Study\School.API\bin\System.Net.Http.Formatting.xml
+C:\1. Projects\Study\School.API\bin\System.Web.Http.xml
+C:\1. Projects\Study\School.API\bin\System.Web.Http.Owin.xml
+C:\1. Projects\Study\School.API\bin\System.Web.Http.WebHost.xml
+C:\1. Projects\Study\School.API\obj\Debug\School.API.dll
+C:\1. Projects\Study\School.API\obj\Debug\School.API.pdb
