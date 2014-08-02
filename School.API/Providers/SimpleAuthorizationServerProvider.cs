@@ -12,12 +12,12 @@ namespace School.API.Providers
 {
     public class SimpleAuthorizationServerProvider : OAuthAuthorizationServerProvider
     {
-        IAuthRepository _repo = null;
+        IAuthRepository _repo = new AuthRepository();
 
-        public SimpleAuthorizationServerProvider(IAuthRepository repo)
-        {
-            _repo = repo;
-        }
+        //public SimpleAuthorizationServerProvider(IAuthRepository repo)
+        //{
+        //    _repo = repo;
+        //}
 
         public override async Task ValidateClientAuthentication(OAuthValidateClientAuthenticationContext context)
         {

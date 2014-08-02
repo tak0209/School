@@ -14,12 +14,6 @@ namespace School.API
 {
     public class Startup : IStartup
     {
-        IAuthRepository _repo = null;
-        public Startup(IAuthRepository repo)
-        {
-            _repo = repo;
-        }
-
         public void Configuration(IAppBuilder app)
         {
             ConfigureOAuth(app);
@@ -37,7 +31,7 @@ namespace School.API
                 AllowInsecureHttp = true,
                 TokenEndpointPath = new PathString("/token"),
                 AccessTokenExpireTimeSpan = TimeSpan.FromDays(1),
-                Provider = new SimpleAuthorizationServerProvider(_repo)
+                Provider = new SimpleAuthorizationServerProvider()
             };
 
             // Token Generation

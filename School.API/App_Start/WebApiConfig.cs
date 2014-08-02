@@ -15,7 +15,7 @@ namespace School.API
             // Web API configuration and services
             var container = new UnityContainer();
             container.RegisterType<IAuthRepository, AuthRepository>(new HierarchicalLifetimeManager());
-            container.RegisterType<IStartup, Startup>(new HierarchicalLifetimeManager());
+            //container.RegisterType<IStartup, Startup>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
 
             // Web API routes
