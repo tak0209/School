@@ -1,4 +1,4 @@
-﻿var app = angular.module('SchoolApp', ['ngRoute', 'LocalStorageModule', 'angular-loading-bar']);
+﻿var app = angular.module('SchoolApp', ['ngRoute', 'LocalStorageModule', 'angular-loading-bar', 'elasticsearch']);
 
 app.config(function ($routeProvider) {
 
@@ -22,6 +22,10 @@ app.config(function ($routeProvider) {
         templateUrl: "/app/views/orders.html"
     });
 
+    $routeProvider.when("/movies", {
+        controller: "moviesController",
+        templateUrl: "/app/views/movies.html"
+    })
     $routeProvider.otherwise({ redirectTo: "/home" });
 });
 
